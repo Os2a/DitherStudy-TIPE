@@ -1,0 +1,11 @@
+déja, prévoir la justification du choix de l'image
+
+- savoir ce qu'est un bruit gaussien 
+- regardé ce qu'il faut dire pour les paternes : 2-1-2pat.png
+- limite quand on augmente les images 
+- refaire make gausss et cblur (utlisés Rangexy et le blur du benchmark)
+- revoir void and cluster
+- reverifié l'explication de la diffusion d'erreur 
+- regardé rapidement les complexité des fonctions 
+- regardé absolument la fonction avec ABR
+- benchmark, essayé d'avoir des résulta plus logique 
